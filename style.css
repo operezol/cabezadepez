@@ -15,7 +15,8 @@ h2 {
     font-weight: 400;
 }
 
-p {
+p,
+a {
     font-weight: 300;
 }
 
