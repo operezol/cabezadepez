@@ -12,9 +12,17 @@ body {
 }
 
 .wrapper {
-    max-width: 60vw;
+    max-width: 90vw;
     margin: 0 auto;
     text-align: center;
+}
+
+@media (min-width:768px) {
+    .wrapper {
+        max-width: 60vw;
+        margin: 0 auto;
+        text-align: center;
+    }
 }
 
 h2 {
