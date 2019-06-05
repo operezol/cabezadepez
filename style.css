@@ -17,6 +17,11 @@ body {
     text-align: center;
 }
 
+.formas {
+    width: 80%;
+    margin: 0 auto;
+}
+
 @media (min-width:768px) {
     .wrapper {
         max-width: 60vw;
