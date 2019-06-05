@@ -28,7 +28,7 @@ h2 a {
     font-size: 1.1em;
 }
 
-@media (min-width:768px) {
+@media (min-width:860px) {
     .wrapper {
         max-width: 60vw;
         margin: 0 auto;
@@ -52,11 +52,15 @@ a {
 }
 
 a img {
-    height: 1em;
+    height: 1.5em;
     position: relative;
-    top: 3px;
+    top: 7px;
 }
 
 .separador {
     margin-bottom: 5vw;
+}
+
+.linkedin {
+    padding-right: 4.6em;
 }
