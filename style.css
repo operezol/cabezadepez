@@ -19,6 +19,11 @@ p {
     font-weight: 300;
 }
 
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
 .separador {
     margin-bottom: 5vw;
 }
