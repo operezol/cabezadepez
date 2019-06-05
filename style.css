@@ -24,6 +24,10 @@ a {
     text-decoration: none;
 }
 
+a img {
+    height: 1em;
+}
+
 .separador {
     margin-bottom: 5vw;
 }
